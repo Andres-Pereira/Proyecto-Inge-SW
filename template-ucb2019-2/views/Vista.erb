@@ -1,0 +1,136 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>|RESULTADO| -  CAR RC</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="e.css">
+</head>
+<body>
+    <header>
+     <nav class="navbar-inverse navbar-static-top" role="navigation">    <!-- con inverse hacemos que cmabien los colores -->
+            <div class="container">
+                    <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navegacion-fm" aria-expended="false" aria-controls="navbar">
+                            <span class="sr-only">Desplegar / Ocultar Menu</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a href="#" class="navbar-brand">CAR RC</a>
+                    </div>
+                    <!--Inicia el menu-->
+                    <div class="collapse navbar-collapse" id="navegacion-fm">
+                                    <ul class="nav navbar-nav">
+                                            <li class="active"><a href="#">Inicio</a></li>
+                                    </ul>
+                    
+                                    
+                    </div>
+            </div>
+        </nav>
+    </header>
+    <section class="jumbotron">
+            <div class="container">
+                    <h1 class="titulo-blog">CAR RC</h1>
+             <p>Programacion de secuencias de movimiento para autos a control remoto</p>
+            </div>
+           </section>
+
+    <section class="main container"> 
+           <div class="row">
+               <section class ="posts col-md-8">
+                   <div class="miga-de-pan">
+                       <ol class="breadcrumb"> 
+                            <li>Inicio</li>
+                            <li class= "active">Acerca de nosotros</li>
+                       </ol>
+                   </div>
+
+                   <article class ="post clearfix">
+                    <a href="#" class="thumb pull-left">
+                            <img class="img-thumbnail" src="http://www.kristiboni.gr/files/images/news/ResultsIcon.jpg">
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
+                    </a>
+                    <h2 class="post-title">
+                        <a href="#">Resultado de secuencia de movimientos</a>
+                    </h2>
+                    <p><span class="post-fecha">5 de Diciembre de 2019</span> por <span class="post-autor">Gamal, Andres<a href="#"></a></span></p>
+                   <p class="post contendio text-justify">
+                        
+                    <h2>Instrucciones:</h2> <%=@instrucciones%>
+                    <h2>PosInicial:</h2>  <%=@PosY%>,<%=@PosX%> 
+                    <h2>Orientacion:</h2>  <%=@orientacion%>
+                    <h2>PosFinal:</h2>     <%=@@auto.simular([@PosX,@PosY,@orientacion],@instrucciones,[@LimY ,@LimX])%>
+                    <h2>Terreno:</h2> <%=@LimY%> x <%=@LimX%>
+                    
+
+                    </p>
+                </article>
+                <nav>
+                    <div class="center-block">
+                        <ul class="pagination">
+                            <li class="disabled"><a href="#">&laquo;<span class="sr-only"></span>Anterior</a></li>
+                            <li class="active"><a href="#">1</a></li>
+
+                            <li><a href="#">1</a></li>
+                            <li><a href="#">2</a></li>
+                            <li><a href="#">3</a></li>
+                            <li class="disabled"><a href="#">&raquo;<span class="sr-only"></span>Siguiente</a></li>
+                        </ul>
+                    </div>
+                </nav>
+               </section>
+               <aside class="col-md-4 hidden-xs hidden-sm" >
+
+                    <article class ="post clearfix">
+                            <h3 class="post-title">
+                                <a href="#">Informacion</a>
+                            </h3>
+                            <p><span class="post-fecha">29 de Enero de 2015</span> por <span class="post-autor">Gamal, Andres<a href="#"></a></span></p>
+                           <p class="post contendio text-justify">
+                                Una vez ejecutada la simulacion se correra la secuencia de movimientos escrita en el cuadro de texto, por
+                                ejemplo "IAAIDI", el resultado sera la posicion final del auto, empieza en (0,0) y una respuesta podria ser (5,5) por ejemplo.
+                                
+                            </p>
+                            <h4>Instrucciones basicas</h4>
+                            <a href="#" class="list-group-item">
+                                   <p class="list-group-item-heading">'D' = Derecha </p>
+                            </a>
+                            <a href="#" class="list-group-item">
+                                    <p class="list-group-item-heading"> 'I' = Izquierda</p>
+                            </a>
+                            <a href="#" class="list-group-item">
+                                    <p class="list-group-item-heading">'A' = Adelante</p>
+                            </a>
+
+            </aside>
+           </div>
+    </section>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6">
+                    <p>Gamal Serhan - Andres Pereira</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="bootstrap-3.3.7-dist/js/jquery.js"></script>
+    <script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    
+</body>

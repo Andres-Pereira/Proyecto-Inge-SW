@@ -1,0 +1,140 @@
+# Logfile created on 2019-11-29 00:58:48 -0400 by logger.rb/31641
+D, [2019-11-29T00:58:48.969443 #52547] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T00:58:49.184213 #52547] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T00:58:49.187802 #52547] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T00:58:49.195347 #52547] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T00:58:49.198665 #52547] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T00:58:49.203408 #52547] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T10:04:55.956936 #53863] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:04:56.035463 #53863] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:04:56.039629 #53863] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:04:56.046260 #53863] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:04:56.049469 #53863] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:04:56.053508 #53863] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T10:29:07.639439 #54748] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:29:07.719423 #54748] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:29:07.725033 #54748] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:29:07.733362 #54748] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:29:07.737356 #54748] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:29:07.748125 #54748] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T11:05:56.230394 #55254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:05:56.298677 #55254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:05:56.304246 #55254] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:05:56.312474 #55254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:05:56.315574 #55254] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:05:56.335784 #55254] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T11:06:29.446768 #55485] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:29.525084 #55485] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:29.528366 #55485] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:29.537031 #55485] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:29.540493 #55485] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:29.544292 #55485] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T11:06:44.281223 #55621] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:44.336833 #55621] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:44.340570 #55621] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:44.348913 #55621] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:44.351681 #55621] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:44.354087 #55621] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-12-03T21:41:14.793542 #592] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T21:48:50.007185 #7256] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T21:55:03.762070 #1408] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T22:00:20.991567 #9136] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T22:00:39.909134 #5488] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T22:01:21.469289 #10672] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T22:11:16.937992 #3180] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T22:13:12.263636 #9708] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T22:15:24.700542 #188] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T22:15:42.540132 #13796] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T22:15:55.293757 #1180] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T22:16:09.702900 #7984] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-03T22:21:35.422206 #10088] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T12:40:43.539494 #5980] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:10:43.295075 #10956] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:18:55.262485 #8568] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:35:33.206166 #16140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:49:15.050651 #16292] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:51:51.918720 #4224] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {} and HTTP headers {}
+D, [2019-12-05T08:29:20.393823 #6824] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T08:29:20.788909 #6824] DEBUG -- : REQUESTING PAGE: GET /coordenadasIniciales with {} and HTTP headers {}
+D, [2019-12-05T08:29:20.886441 #6824] DEBUG -- : REQUESTING PAGE: GET /secuenciaMovimientos with {} and HTTP headers {}
+D, [2019-12-05T09:00:28.406430 #14592] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:04:43.944223 #1540] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:07:02.164567 #13692] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:07:02.344517 #13692] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T09:07:02.360540 #13692] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-05T09:14:17.282803 #8052] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:15:38.386961 #7568] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:19:17.289195 #9884] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:19:17.435522 #9884] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"", "PosX"=>"5", "PosY"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T09:19:17.449059 #9884] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-05T09:23:29.738319 #11232] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:30:39.685431 #8164] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:30:39.845641 #8164] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"", "PosX"=>"5", "PosY"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T09:30:39.863144 #8164] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-05T09:31:20.564097 #11032] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:32:13.726470 #9860] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:33:03.887905 #15948] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:33:04.104850 #15948] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"", "PosX"=>"5", "PosY"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T09:33:04.139177 #15948] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-05T09:37:22.713774 #5864] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:38:28.079735 #5944] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:38:28.253845 #5944] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"", "PosX"=>"5", "PosY"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T09:38:28.275452 #5944] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-05T09:43:51.007101 #12148] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:45:57.008504 #8828] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:46:13.486007 #11772] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:46:56.138224 #11428] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T09:46:56.348968 #11428] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T09:46:56.370865 #11428] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-13T04:43:57.693858 #15496] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T04:43:57.927965 #15496] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T04:43:57.955418 #15496] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-13T04:46:24.682085 #11980] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T04:52:15.402033 #13920] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:00:55.679018 #12512] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:02:12.675199 #4244] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:03:51.530210 #12480] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:03:51.698525 #12480] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:03:51.749987 #12480] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-13T05:05:17.441722 #14480] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:05:17.593611 #14480] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:29:02.318560 #724] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:32:05.940708 #15084] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:32:06.107449 #15084] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:34:49.282452 #6196] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:34:49.447919 #6196] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:34:49.491054 #6196] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-13T05:37:15.502800 #4328] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:37:15.656640 #4328] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:44:21.914943 #8352] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:44:22.086196 #8352] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:44:55.388122 #18164] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:44:55.590590 #18164] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:45:33.866845 #16096] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:45:34.043107 #16096] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:48:20.240240 #11200] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:48:20.440989 #11200] DEBUG -- : REQUESTING PAGE: GET /vista with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:50:00.425550 #4368] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:50:00.603180 #4368] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:57:35.789062 #14012] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:57:35.969383 #14012] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:59:07.205801 #16260] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:59:07.369055 #16260] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:59:07.405082 #16260] DEBUG -- : REQUESTING PAGE: GET /instrucciones/ with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-13T05:59:54.662636 #8384] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:59:54.821633 #8384] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:59:54.856141 #8384] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-13T06:07:55.721885 #11220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:07:55.877826 #11220] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:10:01.161135 #13444] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:10:01.372975 #13444] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:10:01.408911 #13444] DEBUG -- : REQUESTING PAGE: GET /instrucciones/ with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-13T06:22:07.452352 #14368] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:22:07.610413 #14368] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:22:07.640340 #14368] DEBUG -- : REQUESTING PAGE: GET /instrucciones/ with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-13T06:25:36.687399 #11696] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:25:36.874804 #11696] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:25:36.906292 #11696] DEBUG -- : REQUESTING PAGE: GET /instrucciones/ with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
+D, [2019-12-13T06:26:22.345734 #18112] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:26:22.506357 #18112] DEBUG -- : REQUESTING PAGE: GET /instrucciones with {"instrucciones"=>"DADAA", "PosX"=>"5", "PosY"=>"2", "Largo"=>"", "Ancho"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:26:22.542445 #18112] DEBUG -- : REQUESTING PAGE: GET /instrucciones/ with {} and HTTP headers {"HTTP_REFERER"=>"/instrucciones"}
